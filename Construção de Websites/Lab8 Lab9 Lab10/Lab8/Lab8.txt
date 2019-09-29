@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Página Grupo 4 Seminário - Lab71 </title>
+        <style>
+                h1 {
+                    font-size: 45px;
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                }
+        </style>
+
+    </head>
+
+    <body BGcolor = "white" text = "black">
+	
+	<br>
+	<h1 align = "center"> Top 10 Músicas </h1>
+	<br>
+
+	<br>
+            <ul><h3> 
+		<li>	Shallow (With Bradley Cooper)	</li>
+            </h3></ul>
+        <br>
+
+</body>
+
+</html>

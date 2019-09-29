@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Página Grupo 4 Seminário - Lab71 </title>
+        <style>
+                h1 {
+                    font-size: 45px;
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                }
+        </style>
+
+    </head>
+
+    <body BGcolor = "white" text = "black">
+        <br>
+        <h1 align = "center"> Tópicos </h1>
+        <br>
+        <h2 align = "center"> <a href="#browser"> Browser </a></h2>
+        <h2 align = "center"> <a href="#protocolo"> Protocolos de Comunicação </a></h2>
+        <h2 align = "center"> <a href="#modem"> Modem </a></h2>
+        <h2 align = "center"> <a href="#irc"> IRC </a></h2>
+        
+        <br>
+        <h1 align = "center"> <a name="browser"> Browsers </a> </h1>
+
+        <br>
+        <ul><li><h3 align = ""> Browser é um programa desenvolvido para permitir a navegação pela web, capaz de processar 
+            diversas linguagens, como HTML, ASP, PHP. Sua interface vai variar de acordo com a marca, onde quem 
+            escolhe é o usuário.</li></ul>
+        </h3>
+        <br>
+        <br>
+        <br>
+        <table border= "10">
+        <tr>
+        <td> <img src = "HTMLTags.png" align = "center" height=200 width=200> </td>
+        <td> <img src = "AspClassic.png" align = "center" height=200 width=200> </td>
+        <td> <img src = "ElefantePHP.png" align = "center" height=200 width=200> </td></tr></table>
+        <br>
+        <br>
+        <br>
+
+        <br>
+        <tr>
+            <ul><h3 align = ""> <li>O browser ou web browser é responsável pela comunicação com os servidores, 
+                 é ele que processa os dados recebidos pelos servidores da Internet e processa as respostas.</li>
+            <br><li>Antigamente, os primeiros browsers tinham apenas texto, mas com o tempo foram aperfeiçoados, 
+                foram criados mecanismos para interagir com o usuário, com interfaces rápidas, coloridas e de fácil acesso.</li>
+            </h3></ul>
+        <br>
+        
+
+        <table border= "10">
+            <tr>
+            <td> <img src = "imagemwww.png" align = "right" height=200 width=200> </td>
+            </tr>
+        </table>
+
+        <br>
+            <ul><h3 align = ""> <li>O primeiro browser foi o WorldWideWeb, criado em 1990, e pouco tempo depois, 
+                vieram os outros. Os principais browsers são o Internet Explorer, que surgiu em 1995, e até pouco 
+                tempo era o browser líder no mundo, mas acabou perdendo lugar para outros, como o Safari, lançado em 
+                2003 pela Apple, o Mozzila Firefox, criado em 2004 e o Google Chrome, disponibilizado em 2008, pelo Google.</li>
+            <br><li>Todos os navegadores tem a mesma função, possibilitar o uso da Internet pelo usuário,
+                 mas eles são diferentes, alguns são mais rápidos e ágeis, outros são mais modernos e com 
+                 novas técnicas, e atualmente todos estão em uma disputa para a maior participação do mercado.</li>
+            </h3></ul>
+        </tr>
+        <br>
+	
+	<br>
+        <h1 align = "center"> <a name="protocolo"> Protocolos de Comunicação </a> </h1>
+        <br>
+
+	<table border= "10">
+            <tr>
+            <td> <img src = "protocolosderedeprotocolosdeinternet.png" align = "right" height=300 width=400> </td>
+            </tr>
+        </table>
+
+	<br>
+            <ul><h3 align = ""> <li>Protocolos de comunicação são os conjuntos de normas que permitem que duas ou mais
+		 máquinas conectadas à internet se comuniquem entre si. Funciona como uma linguagem universal, que pode ser interpretada
+		 por computadores de qualquer fabricante, por meio de qualquer sistema operacional.
+		</li>
+            </h3></ul>
+        <br>
+
+	<br>
+        <h2 align = "center"> Exemplos de Protocolos de Comunicação </h2>
+        <br>
+
+	<br>
+            <ul><h3 align = ""> 
+		<li> IP </li> <br>
+		<li> TCP/IP </li> <br>
+		<li> HTTP/HTTPS </li> <br>
+		<li> FTP </li> <br>
+		<li> SFTP </li> <br>
+		<li> SSH </li> <br>
+		<li> SSL </li> <br>
+		<li> ICMP </li> <br>
+		<li> SMTP </li> <br>
+		<li> TELNET </li> <br>
+		<li> POP3 </li> <br>
+            </h3></ul>
+        <br>
+
+	<br>
+        <h1 align = "center"> <a name="modem"> Modem </a> </h1>
+        <br>
+
+	<br>
+	<table border= "10">
+        <tr>
+        <td> <img src = "modempreto.jpg" align = "center" height=200 width=200> </td>
+        <td> <img src = "modembranco.jpg" align = "center" height=200 width=200> </td>
+	<td> <img src = "modemouroteador2.jpg" align = "center" height=200 width=350> </td></tr></table>
+        <br>
+
+	<br>
+            <ul><h3 align = ""> <li>A palavra Modem vem da junção das palavras MODuladore DEModulador.</li>
+            <br><li>É um dispositivo eletrônico que modula um sinal digital numa onda analógica, pronta a ser 
+		transmitida pela linha telefônica, e que demodula o sinal analógico e reconverte-o para o formato digital original. 
+		Utilizado para conexão à Internet, BBS, ou a outro computador.</li>
+            </h3></ul>
+        <br>
+
+	<br>
+        <h1 align = "center"> <a name="irc"> IRC (Internet Relay Chat) </a> </h1>
+        <br>
+
+	<br>
+	<table border= "10">
+        <tr>
+        <td> <img src = "IRCimagem.jpg" align = "center" height=200 width=200> </td></tr></table>
+        <br>
+
+	<br>
+            <ul><h3 align = ""> <li>Internet Relay Chat (Bate-papo de Retransmissão na Internet).</li>
+
+        	<br><li>IRC é um protocolo de comunicação.</li>
+
+		<br><li>Desenvolvido pelo finlandês Jarkko Oikarinen em 1988.</li>
+
+		<br><li>Antes de MSN Messenger, Google Talk (Gtalk), ICQ e Yahoo! Messenger.</li>
+
+		<br><li>Bate papo em tempo real e que permitia tanto conversas públicas quanto privadas, e troca de arquivos. </li>
+
+		<br><li>As primeiras redes surgiram na Finlândia e o sistema necessitava um servidor ligado 24 horas 
+			para manter a comunicação, na época hospedado dentro de Universidades.</li>
+
+		<br><li>Começou a se expandir rapidamente a partir de 1994 quando servidores públicos e gratuitos começaram a 
+			permitir que qualquer usuário que possuísse uma conexão com a internet pudesse fazer parte do serviço.</li>
+
+		<br><li>O maior e mais conhecido programa utilizado para se conectar a um servidor do IRC é o mIRC, cliente de Windows.</li>
+
+		<br><li>O mIRC possuía suporte a scripts que permitiam aos usuários jogar partidas de jogos de cartas ou xadrez e realizar enquetes específicas.</li>
+
+		<br><li>Entre 2002 e 2004 os IRCs começarão a entrar em decadência.</li>
+
+		<br><li>O IRC nunca retomou sua popularidade.</li>
+
+		<br><li>Hoje é utilizado para finalidades específicas, como: troca de informações entre desenvolvedores de Linux, 
+			compartilhamento de arquivos e por hackers para troca de informações livre de interceptações.</li>
+            </h3></ul>
+        </tr>
+        <br>
+
+	<br>
+	<table border= "10">
+        <tr>
+        <td> <img src = "IRC2.gif" align = "center" height=400 width=550> </td></tr></table>
+        <br>
+	
+	<br>
+        <h2 align = "center"> Página do Grupo:</h2>
+        <br>
+
+	<br>
+        <h1 align = "center"> Alan Victor Gonçalves </h1>
+        <h1 align = "center"> Vinicius Servelo </h1>
+        <h1 align = "center"> James Alexsabder </h1>
+        <h1 align = "center"> Felipe Niclevicz </h1>    
+	<h1 align = "center"> Vitor Cordeiro </h1>    
+        <br>
+
+    </body>
+
+</html>

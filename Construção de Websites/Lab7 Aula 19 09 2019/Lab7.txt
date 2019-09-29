@@ -1,0 +1,23 @@
+<html>
+<head>
+
+<title> Tela Menu - Lab7 </title>
+
+</head>
+
+<body>
+
+<body BGcolor = "yellow" text = "blue">
+<br>
+<h1 align = "center"> Tela Menu </h1>
+<br>
+<h3 align = "center"> Escolha 1 </h3>
+<br>
+<h3 align = "center"> Escolha 2 </h3>
+<br>
+<h3 align = "center"> Escolha 3 </h3>
+<br>
+
+</body>
+
+</html>

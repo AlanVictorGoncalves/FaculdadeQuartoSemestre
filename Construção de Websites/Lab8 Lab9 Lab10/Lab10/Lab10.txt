@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Página Grupo 4 Seminário - Lab71 </title>
+        <style>
+                h1 {
+                    font-size: 30px;
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                }
+        </style>
+
+    </head>
+
+    <body BGcolor = "yellow" text = "red">
+	
+	<br>
+	<h1 align = "center"> 10 Lugares para você visitar </h1>
+
+	<br>
+            <ol><h3> 
+		<li>	X-Burguer		</li>		
+            </h3>
+
+	<br>
+            <h3> 
+		<li>	X-Salada		</li>
+            </h3>
+
+	<br>
+            <h3> 
+		<li>	Esfirra			</li>
+            </h3>
+
+	<br>
+            <h3> 
+		<li>	Pizza			</li>
+            </h3>
+
+	<br>
+            <h3> 
+		<li>	Esfirra Fechada		</li>
+            </h3>
+
+	<br>
+            <h3> 
+		<li>	Cochinha 		</li>
+            </h3>
+
+	<br>
+            <h3> 
+		<li>	Torta			</li>
+            </h3>
+
+	<br>
+            <h3> 
+		<li>	Pão de Queijo	</li>
+            </h3>
+
+<br><h3><a href="https://www.bonitour.com.br/bonito?lang=pt-br">Conheça mais!</a></h3> <br>
+
+	</body>
+
+</html>

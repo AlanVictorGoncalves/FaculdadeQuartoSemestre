@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Lanchonete - Lab10 </title>
+        <style>
+                h1 {
+                    font-size: 30px;
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                    text-align: center;
+                    margin: 40px;
+                }
+
+                li {
+                      display: inline-block;
+                }
+
+                img {
+                      height: 200px;
+                      width: 200px;
+                      /* margin: 0px auto; */
+                      border: 10px outset gray;
+                }
+
+                .arroz {
+                      color: green;
+                }
+        </style>
+
+    </head>
+
+    <body style="color:red;background-color: yellow;">
+      <h1>Seja Bem Vindo a Lanchonete Lan-cho-ne-te!</h1>
+	<h1>Cardápio</h1>
+      <ol>
+            <li style="color:green;">
+                  <h3>X-Burguer</h3>
+                  <img src = "xburger.jpg">
+            </li>	  
+		<li>
+                  <h3>X-Salada</h3>
+                  <img src = "xsalada.jpg">
+            </li>
+		<li>
+                  <h3>Esfirra</h3>
+                  <img src = "esfirra.jpg">
+            </li>
+		<li>
+                  <h3>Pizza</h3>
+                  <img src = "pizza.jpg">
+            </li>
+		<li>
+                  <h3>Esfirra Fechada</h3>
+                  <img src = "esfirrafechada.jpg">
+            </li>
+		<li>
+                  <h3>Coxinha</h3>
+                  <img src = "coxinha.jpg">
+            </li>
+		<li>
+                  <h3>Torta</h3>
+                  <img src = "torta.jpg">
+            </li> 
+		<li>
+                  <h3>Pão de Queijo</h3>
+                  <img src = "paodequeijo.jpg">
+            </li>
+
+            <script>
+                  var h3s = document.querySelectorAll('h3')
+                  for (let i = 0; i < h3s.length; i++) {
+                        h3s[i].innerText = (i + 1) + '. ' + h3s[i].innerText
+                  }
+                  // h3s.forEach((h, i) => h.innerText = (i + 1) + '. ' + h.innerText)
+            </script>
+	</body>
+
+</html>

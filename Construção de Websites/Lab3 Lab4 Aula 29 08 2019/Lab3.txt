@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>	Figura Animada - Lab3 </title>
+</head>
+<body BGcolor = "yellow" text = "blue">
+<h1 align = "center"> Figura Animada </h1>
+<marquee> <img src = "rickindoparaesquerda.gif"> </marquee>
+<hr>
+<h3> Rick está indo para sua direita, que é a minha esquerda. </h3>
+</body>
+</html>

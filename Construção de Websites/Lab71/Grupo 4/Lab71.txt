@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<title> Tela Menu - Lab7 </title>
+
+</head>
+
+<body>
+
+<body BGcolor = "yellow" text = "blue">
+<br>
+<h1 align = "center"> Browsers </h1>
+<br>
+<h3 align = "center"> Browser é um programa desenvolvido para permitir a navegação pela web, 
+capaz de processar diversas linguagens, como HTML, ASP, PHP. Sua interface vai variar de acordo 
+com a marca, onde quem escolhe é o usuário.
+</h3>
+<td> <img src = "HTMLTags.png" height=20 width=20> </td>
+<td> <img src = "AspClassic.png" height=20 width=20> </td>
+<td> <img src = "ElefantePHP.png" height=20 width=20> </td>
+<br>
+<h3 align = "center"> Escolha 2 </h3>
+<br>
+<h3 align = "center"> Escolha 3 </h3>
+<br>
+
+</body>
+
+</html>
