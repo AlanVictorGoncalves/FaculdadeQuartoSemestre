@@ -1,22 +1,22 @@
 <html>
-<head>
+    <head>
+        <meta charset="UTF-8">
+        <title>Exemplo de Página HTML - Lab6</title>
 
-<title>Exemplo de P?gina HTML - Lab6</title>
+    </head>
 
-</head>
+    <body>
 
-<body>
+        <h1>LAB6 trabalho em HTML</h1>
 
-<h1>LAB6 trabalho em HTML</h1>
+        <IMG SRC="carro.gif" ALT="Imagem de um carro" ALIGN=LEFT HEIGHT=184 WIDTH=300>
+        <p>Páginas HTML podem ser criadas em qualquer editor ou processador de texto. A única exigência é que o programa 
+            seja capaz de salvar o documento no formato texto simples, ou seja, sem nenhuma formatação esoecial, como 
+            fontes ou alinhamento de parágrafos.</p>
+        <p>Mas isso não significa que você não pode usar fontes ou outras formatações de texto no documento HTML. 
+            Esses recursos são inseridos no documento de forma diferente, usando marcações chamadas tags.</p>
+        <p>As tags são usadas também para inserir imagens (acima) ou para criar hyperlinks como este, que permite 
+            acessar o site de Gifs: <A HREF="https://giphy.com/gifs/C5FJACTLupo2I">GIPHY</A>.
 
-<IMG SRC="carro.gif" ALT="Imagem de um carro" ALIGN=LEFT HEIGHT=184 WIDTH=300>
-<p>P?ginas HTML podem ser criadas em qualquer editor ou processador de texto. A ?nica exig?ncia ? que
-o programa seja capaz de salvar o documento no formato texto simples, ou seja, sem nenhuma formata??o esoecial,
-como fontes ou alinhamento de par?grafos </p>
-<p>Mas isso n?o significa que voc? n?o pode usar fontes ou outras formata??es de texto no documento HTML.
-Esses recursos s?o inseridos no documento de forma diferente, usando marca??es chamadas tags.</p>
-<p>As  tags s?o usadas tamb?m para inserir imagens (acima) ou para criar hyperlinks como este, que permite
-acessar o site de Gifs: <A HREF="https://giphy.com/gifs/C5FJACTLupo2I">GIPHY</A>.
-
-</body>
+    </body>
 </html>
