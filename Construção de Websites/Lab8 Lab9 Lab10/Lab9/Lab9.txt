@@ -1,76 +1,109 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title> Página Grupo 4 Seminário - Lab71 </title>
-        <style>
-                h1 {
-                    font-size: 30px;
-                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                }
-        </style>
+      <head>
+            <meta charset="UTF-8">
+            <title> Agência de Turismo - Lab9 </title>
+            <style>
+                  h1 {
+                        font-size: 30px;
+                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                  }
 
-    </head>
+                  h1 {
+                        text-align: center;
+                        
+                  }
 
-    <body BGcolor = "white" text = "black">
+                  /* h3 {
+                        font-size: 24px;
+                        padding: 0px 20%;
+                  } */
+
+                  li {
+                        font-size: 24px;
+                        /* padding: 0px 20%; */
+                  }
+
+                  img {
+                        width: 200px;
+                        height: 200px;
+                        border: 10px outset gray;
+                  }
+
+                  .div-centralizada {
+                        margin: 0px auto;
+                        width: fit-content;
+                  }
+
+                  ol {
+                        margin: 60px auto;
+                        width: fit-content;
+                  }
+
+            </style>
+
+      </head>
+
+      <body BGcolor = "white" text = "black">
 	
-	<br>
-	<h1 align = "center"> Top 10 Músicas </h1>
+	<h1> 10 Lugares para você visitar </h1>
 
-	<br>
-            <ol><h3> 
-		<li>	Shallow		</li>		
-            </h3>
+      <ol> 
+		<li>
+                  <h3>Nascente Azul - Flutuação</h3>
+                  <div class="div-centralizada">     
+                        <img src="Nascente-Azul-Flutuacao.jpg">
+                  </div>
+            </li>
+		<li>
+                  <h3>Cachoeiras Serra da Bodoquena</h3>
+                  <div class="div-centralizada">     
+                        <img src = "cachoeiras-serra-da-bodoquena.jpg">
+                  </div>
+            </li>
+		<li>
+                  <h3>Aquario Natural - Flutuação</h3>
+                  <div class="div-centralizada">     
+                        <img src = "AquarioNaturalFlutuacao.jpg">
+                  </div>
+            </li>
 
-	<br>
-            <h3> 
-		<li>	 Perfect	</li>
-            </h3>
+            <li>
+                  <h3>Boca da Onça</h3>
+                  <div class="div-centralizada">     
+                        <img src = "Boca-da-Onca.jpg">
+                  </div>
+            </li>
 
-	<br>
-            <h3> 
-		<li>	Believer	</li>
-            </h3>
+            <li>
+                  <h3>Balneário do Sol</h3>
+                  <div class="div-centralizada">     
+                        <img src = "Balneario-do-Sol.jpg">
+                  </div>
+            </li>
 
-	<br>
-            <h3> 
-		<li>	Hino Nacional Brasileiro	</li>
-            </h3>
+            <li>
+                  <h3>Abismo Anhumas - Flutuação</h3>
+                  <div class="div-centralizada">     
+                        <img src = "Abismo-Anhumas-Flutuacao.jpg">
+                  </div>
+            </li>
 
-	<br>
-            <h3> 
-		<li>	Fix You	</li>
-            </h3>
+            <li>
+                  <h3>Parque Ecológico - Boia Cross</h3>
+                  <div class="div-centralizada">     
+                        <img src = "parque-ecologico-boia-cross.jpg">
+                  </div>
+            </li>
 
-	<br>
-            <h3> 
-		<li>	Não pare	</li>
-            </h3>
-
-	<br>
-            <h3> 
-		<li>	Ausência	</li>
-            </h3>
-
-	<br>
-            <h3> 
-		<li>	Old Town Road	</li>
-            </h3>
-
-	<br>
-            <h3> 
-		<li>	A Bíblia é a Palavra de Deus	</li>
-            </h3>
-        <br>
-
-	<br>
-            <h3> 
-		<li>	Bohemian Rhapsody	</li>
-            </h3>
-
-	<br>
-	<h1 align = "center"> Alguns Nomes de Pessoas </h1>
-	<br>
+            <li>
+                  <h3>Rio Sucuri - Flutuação</h3>
+                  <div class="div-centralizada">     
+                        <img src = "Rio-sucuri-Flutuacao.jpg">
+                  </div>
+            </li>
+      
+      <h3><a href="https://www.bonitour.com.br/bonito?lang=pt-br">Conheça mais!</a></h3> <br>
 
 	</body>
 

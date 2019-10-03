@@ -30,22 +30,22 @@ public class FeriasdaCLT12 {
         faltas = leia.nextInt();
         
         if (faltas < 6) {
-            System.out.print("30 dias corridos de férias! "); }
+            System.out.println("30 dias corridos de férias! "); 
+        }
+        else if (faltas < 15){
+            System.out.println("24 dias corridos de férias! ");
+        }
+        else if (faltas < 24) {
+            System.out.println("18 dias corridos de férias! "); 
+        }
+        else if (faltas < 33) {
+            System.out.println("12 dias corridos de férias! "); 
+        }
         else {
-        
-            if (faltas < 15) {
-                System.out.print("24 dias corridos de férias! "); }
-            else {
-            
-                if (faltas < 24) {
-                    System.out.print("18 dias corridos de férias! "); }
-                else {
-            
-                    if (faltas < 33) {
-                        System.out.print("12 dias corridos de férias! "); }
-                    else {
-                        System.out.print("Não há dados a respeito de acima de 32 faltas! ");
-        }   }   }   }
+            System.out.println("Não há dados a respeito de acima de 32 faltas! ");    
+        }
+
+        leia.close();
+
     }
-    
 }
